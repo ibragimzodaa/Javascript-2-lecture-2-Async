@@ -95,4 +95,4 @@ block, and if an error occurs, executes the catch block.
 
 ![alt text](image-10.png)
 
-            This was a javascript 2 lecture 2
+                                                                      This was a javascript 2 lecture 2
